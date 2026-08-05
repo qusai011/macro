@@ -9,7 +9,7 @@
 const std::string CURRENT_VERSION = "1.0.0";
 
 // رابط الإصدارات على GitHub API (استبدل USERNAME و REPO باسم حسابك ومستودعك)
-const std::string GITHUB_API_URL = "https://api.github.com/repos/USERNAME/REPO/releases/latest";
+const std::string GITHUB_API_URL = "https://api.github.com/repos/qusai011/MyProject/releases/latest";
 
 // دالة لجلب البيانات من الرابط
 std::string FetchLatestVersion() {
